@@ -1,0 +1,28 @@
+# ===== 系统文件 =====
+**/.DS_Store
+**/Thumbs.db
+
+# ===== IDE 配置 =====
+**/.idea/
+**/*.iml
+**/.gradle/
+**/local.properties
+
+# ===== 构建产物 =====
+**/build/
+**/.externalNativeBuild/
+**/.cxx/
+**/captures/
+**/oh_modules/
+**/node_modules/
+**/.hvigor/
+**/.clangd
+**/.clang-format
+**/.clang-tidy
+
+# ===== 项目特有 =====
+**/.devcheck/
+**/*.log
+**/*.hprof
+**/.appanalyzer
+**/.test/
