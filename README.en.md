@@ -1,3 +1,3 @@
-# KY_XM_wskwss2022_2026
+# KY_Mob_XM_wskwss2022_2026
 
-Personal open-source project repository.
+Mobile open-source project repository.
